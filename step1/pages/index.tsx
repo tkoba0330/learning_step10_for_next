@@ -23,6 +23,7 @@ const Home: NextPage = () => {
           <p>このページはNext.jsの学習の一環として作成しました。</p>
           <p>これからプログラミングについて一緒に学んでいきましょう！</p>
           <p>hogehoge</p>
+          <p>hogehoge</p>
         </div>
       </main>
 
