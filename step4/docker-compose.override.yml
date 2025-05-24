@@ -1,0 +1,9 @@
+services:
+  # 開発用サービスのプロファイル制限を解除
+  portfolio-dev:
+    profiles: []  # 空の配列でプロファイル無効化
+    
+  # 本番用サービスにプロファイルを追加（オプション）
+  portfolio-app:
+    profiles:
+      - production 
